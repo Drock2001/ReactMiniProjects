@@ -1,3 +1,6 @@
+# LikeCounter created by useState Hook
+<img src="https://github.com/ayushpratap344/ReactMiniProjects/blob/main/LikeCounter_React/screenshorts/SnapCrab_NoName_2021-8-26_14-40-40_No-00.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
