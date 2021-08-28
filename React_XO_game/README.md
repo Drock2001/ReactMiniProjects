@@ -1,5 +1,5 @@
 # React Tic_Tac_XO Game
-### using Hooks useState/useEffect
+using Hooks useState/useEffect
 
 
 # Getting Started with Create React App
