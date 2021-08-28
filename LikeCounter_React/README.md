@@ -1,4 +1,4 @@
-# LikeCounter created by useState Hook
+# LikeCounter created by useState Hook and useEffect Hook to display alert msg
 <img src="https://github.com/ayushpratap344/ReactMiniProjects/blob/main/LikeCounter_React/screenshorts/SnapCrab_NoName_2021-8-26_14-40-40_No-00.png">
 
 # Getting Started with Create React App
