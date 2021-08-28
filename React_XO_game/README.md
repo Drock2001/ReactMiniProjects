@@ -1,6 +1,6 @@
 # React Tic_Tac_XO Game
-using Hooks useState/useEffect
-
+### using Hooks useState/useEffect
+<img src="https://github.com/ayushpratap344/ReactMiniProjects/blob/main/React_XO_game/Screenshots/SnapCrab_NoName_2021-8-28_16-8-58_No-00.png">
 
 # Getting Started with Create React App
 
