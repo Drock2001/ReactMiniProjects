@@ -1,7 +1,8 @@
 # ReactMiniProjects
 A collection of React.js Mini-Projects <br>
 i) React Like Counter <br>
-ii) React Tic_XO Game
+ii) React Tic_XO Game <br>
+iii) React Sidebar
 
 # Getting Started with Create React App
 
