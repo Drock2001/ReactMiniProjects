@@ -1,4 +1,6 @@
 # Random Color Picker
+<img src="https://github.com/ayushpratap344/ReactMiniProjects/blob/main/Rnd_color_genx/src/ss/SnapCrab_NoName_2021-9-13_13-55-58_No-00.png">
+<img src="https://github.com/ayushpratap344/ReactMiniProjects/blob/main/Rnd_color_genx/src/ss/SnapCrab_NoName_2021-9-13_13-56-18_No-00.png">
 
 In this project, we’ll build a program that helps designers think of new color schemes.
 
